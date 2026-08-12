@@ -1,5 +1,5 @@
-# FractalApp — Sierpinski Fractal Generator for HRV Time Series
-**Author:** Alma Rocío Patiño Chávez  
+# Multiscale Fractal Complexity of Cardiac Variability: A Predictive Biomarker for SeizuresFractalApp — Sierpinski Fractal Generator for HRV Time Series
+**Author:** Alma Rocío Patiño Chávez, Gael Aguirre-Cruz, Erik Leonardo Mateos-Salgado, Salvador Quiroz-Gonzalez, Federico Menendez-Conde Lara  and Erika Elizabeth Rodriguez-Torres
 **Version:** 1.0  
 
 FractalApp is a graphical interface built in Python/Tkinter that generates 2D (Sierpinski Triangle) and 3D (Sierpinski Tetrahedron) fractal structures from one-dimensional time-series data, such as Heart Rate Variability (HRV).  
@@ -113,6 +113,10 @@ MIT License © 2025 Alma Rocío Patiño Chávez
 
 For questions or collaborations, contact:  
 **pa401981@uaeh.com** 
+
+Correspondence:
+Erika Elizabeth Rodriguez-Torres
+**erikart@uaeh.edu.mx** 
 
 ---
 
